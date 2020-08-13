@@ -3,12 +3,11 @@
 [![](https://img.shields.io/badge/-@nickbinglao-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/nickbinglao)
 [![](https://img.shields.io/badge/-@giscafer-%23181717?style=flat-square&logo=github)](https://github.com/giscafer)
 [![](https://img.shields.io/badge/-@giscafer-%23000000?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/giscafer)
-[![](https://img.shields.io/badge/-@giscafer-%23000000?style=flat-square&logo=yuque)](https://www.yuque.com/giscafer)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=https%3A%2F%2Fxlbd.me)](http://giscafer.com)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=http%3A%2F%2Fgiscafer.com)](http://giscafer.com)
 
-:computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓,𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Guangzhou.
+:computer: Senior Front-end Engineer,currently based in GuangZhou.
 
-:writing_hand: [Blog](https://github.com/giscafer/front-end-manual)
+:writing_hand: Writting tech [Blog](https://github.com/giscafer/front-end-manual)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
