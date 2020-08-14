@@ -15,22 +15,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFC107?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23FFC107&color=%23FFC107)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=TypeScript&logoColor=%231572B6&labelColor=%23282C34&color=%23282C34)
-
 ![Angular](https://img.shields.io/badge/-Angular-%231572B6?style=flat-square&logo=Angular&logoColor=red&labelColor=%23E44D27f)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 ![Ionic](https://img.shields.io/badge/-Ionic-%23282C34?style=flat-square&logo=Ionic)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 
+![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=Java&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232C3A42?style=flat-square&logo=mysql&logoColor=%23ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%232C3A42?style=flat-square&logo=MongoDB&logoColor=green)
-
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Sass](https://img.shields.io/badge/-Sass、Less-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%231a202c?style=flat-square&logo=Jenkins)
 ![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-%231a202c?style=flat-square&logo=gitlab)
