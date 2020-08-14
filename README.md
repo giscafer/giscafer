@@ -7,7 +7,7 @@
 
 :computer: Senior Front-end Engineer,currently based in GuangZhou.
 
-:writing_hand: Writting tech [Blog](https://github.com/giscafer/front-end-manual)
+:writing_hand: Writting tech [Blog](https://github.com/giscafer/front-end-manual/issues)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
