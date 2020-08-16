@@ -9,7 +9,7 @@
 
 :writing_hand: Writting tech [Blog](https://github.com/giscafer/front-end-manual/issues)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<!-- ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -31,6 +31,7 @@
 ![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-%231a202c?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-%231a202c?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-%231a202c?style=flat-square&logo=Linux)
+ -->
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
