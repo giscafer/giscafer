@@ -35,8 +35,9 @@
 ![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-%231a202c?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-%231a202c?style=flat-square&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-%231a202c?style=flat-square&logo=Linux)
- -->
+
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![giscafer's github stats](https://github-readme-stats.vercel.app/api?username=giscafer&show_icons=true&theme=dracula)
+ -->
