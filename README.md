@@ -5,7 +5,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Blog&url=https%3A%2F%2Fgithub.com%2Fgiscafer%2Ffront-end-manual%2Fissues)](https://github.com/giscafer/front-end-manual/issues)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=http%3A%2F%2Fgiscafer.com)](http://giscafer.com)
 
-![giscafer's github stats](https://github-readme-stats.vercel.app/api?username=giscafer&show_icons=true&theme=dracula)
+![giscafer's github stats](https://github-readme-stats.vercel.app/api?username=giscafer&show_icons=true&theme=default)
 
 <!-- 
 :computer: Senior Front-end Engineer,currently based in GuangZhou.
