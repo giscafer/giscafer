@@ -72,7 +72,7 @@
       "skill_level": 90
     },
     {
-      "skill_name": "React / Vue.js2.x / 前端工程化",
+      "skill_name": "React / Vue.js / 前端工程化",
       "skill_desc": "大型前端项目经验以及组件库开发经验",
       "skill_level": 85
     },
@@ -112,6 +112,6 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，具备全栈开发能力"
+    "aboutme_desc": "自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉Ionic、React Native开发，具备全栈开发能力"
   }
 }
