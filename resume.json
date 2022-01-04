@@ -4,9 +4,9 @@
     "hidden": false
   },
   "profile": {
-    "name": "劳厚宾(giscafer)",
+    "name": "劳厚宾（giscafer）",
     "email": "giscafer@outlook.com",
-    "mobile": "……",
+    "mobile": "",
     "github": "https://github.com/gisafer",
     "zhihu": "https://www.zhihu.com/people/giscafer",
     "workExpYear": "8"
@@ -14,9 +14,9 @@
   "educationList": [
     {
       "edu_time": ["2010.09.01", "2014.06.30"],
-      "school": "西北农林科技大学（985/211）",
+      "school": "西北农林科技大学",
       "major": "地理信息系统",
-      "academic_degree": "本科"
+      "academic_degree": "本科（985/211）"
     }
   ],
   "awardList": [
@@ -72,12 +72,12 @@
       "skill_level": 90
     },
     {
-      "skill_name": "React / 前端工程化",
+      "skill_name": "React / Vue.js2.x / 前端工程化",
       "skill_desc": "大型前端项目经验以及组件库开发经验",
       "skill_level": 85
     },
     {
-      "skill_name": "Angular / Ionic",
+      "skill_name": "Angular2+ / Ionic",
       "skill_desc": "3年开发使用经验",
       "skill_level": 85
     },
@@ -90,24 +90,24 @@
   "projectList": [
     {
       "project_name": "根云教育",
-      "project_role": "前端负责人",
+      "project_role": "项目研发经理、前端负责人",
       "project_time": "2020.12 - 2021.03",
       "project_desc": "树根互联是专注打造工业操作系统的平台公司，旗下根云（ROOTCLOUD）平台以ABIoT（即AI中台、工业区块链平台、IIoT平台、数据中台）等新一代信息技术为核心基础，面向机器制造商、设备使用者、政府监管部门等社会组织，在智能研发、智能制造、智能销售、智能服务、产业金融、模式创新等方面提供数字化转型服务。",
-      "project_content": "1. 担任项目经理，负责前端架构设计（微前端） 2. 子应用包含：门户网站、数字孪生建模应用、虚拟设备应用、可视化应用、考试系统 3. 大屏可视化编辑器子应用主要开发（Low-Code）"
+      "project_content": "1. 担任项目研发经理，负责前端架构设计（微前端）\r\n 2. 子应用包含：门户网站、数字孪生建模应用、虚拟设备应用、可视化应用、考试系统 \r\n3. 大屏可视化编辑器子应用主要开发（Low-Code）"
     },
     {
-      "project_name": "广东省应急指挥系统住建安全专题",
+      "project_name": "住房安全统筹与发展",
       "project_role": "开发负责人",
-      "project_time": "2021.04 - 2020.07",
-      "project_desc": "住建安全应急指挥系统，主要协助应急厅对广东省住房的安全统筹与发展，对工程器械工作、住房工地数据统计和分析，以及对气象数据观测应急指挥等。",
-      "project_content": "多屏大屏可视化系统开发，GIS + MIS 结合，跨团队协作、沟通"
+      "project_time": "2021.04 - 2021.07",
+      "project_desc": "广东省应急指挥系统住建安全专题，主要协助应急厅对广东省住房的安全统筹与发展，对工程器械工作、住房工地数据统计和分析，以及对气象数据观测应急指挥等。",
+      "project_content": "大屏可视化系统开发，GIS + MIS 结合三屏联动；跨团队协作、沟通"
     },
     {
-      "project_name": "支撑家居供应链全链路的系统",
+      "project_name": "物流供应链",
       "project_role": "前端开发经理、核心开发",
       "project_time": "2017 - 2020",
-      "project_desc": "家居供应链平台，从下单、中转、配送安装、异常上报、签收等全链路系统，包含有：SCM、IPS、CMP、BMP、BOSS、家装通App等",
-      "project_content": "1. 家装通APP重构开发负责人；2. PDA架构负责人；3. 各系统前端开发交付保质保效"
+      "project_desc": "家居物流供应链平台，从下单、中转、配送安装、异常上报、签收等全链路系统，包含有：SCM、IPS、CMP、BMP、BOSS、家装通App等",
+      "project_content": "1. 家装通APP重构开发负责人；\r\n2. PDA架构负责人；\r\n3. 各系统前端开发交付保质保效"
     }
   ],
   "workList": [],
