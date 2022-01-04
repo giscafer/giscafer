@@ -1,14 +1,12 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Nickbing Lao
 
-[![](https://img.shields.io/badge/-@giscafer-%23555555?style=flat-square&logo=npm&logoColor=ffffff)](https://www.npmjs.com/~giscafer)
-[![](https://img.shields.io/badge/-@nickbinglao-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/nickbinglao)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=http%3A%2F%2Fgiscafer.com)](http://giscafer.com)
 [![](https://img.shields.io/badge/-@giscafer-%23000000?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/giscafer)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Blog&url=https%3A%2F%2Fgithub.com%2Fgiscafer%2Ffront-end-manual%2Fissues)](https://github.com/giscafer/front-end-manual/issues)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=http%3A%2F%2Fgiscafer.com)](http://giscafer.com)
 
 ![giscafer's github stats](https://github-readme-stats.vercel.app/api?username=giscafer&show_icons=true&theme=default)
 
-<!-- 
+<!--
 :computer: Senior Front-end Engineer,currently based in GuangZhou.
 
 :writing_hand: Writting tech [Blog](https://github.com/giscafer/front-end-manual/issues)
