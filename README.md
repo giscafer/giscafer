@@ -1,11 +1,11 @@
 <div align=center>
 
-# `giscafer`
+# giscafer
 
 <p>
 
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=giscafer.com&url=http%3A%2F%2Fgiscafer.com)](http://giscafer.com)
-[![](https://img.shields.io/badge/-@giscafer-%23000000?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/giscafer)
+[![](https://img.shields.io/badge/博客-giscafer.com-1e80ff?logo=)](http://giscafer.com)
+[![Zhihu](https://img.shields.io/badge/知乎-giscafer-1e80ff?logo=zhihu)](https://www.zhihu.com/people/giscafer)
 [![Github Stars](https://img.shields.io/github/stars/giscafer?color=faf408&label=github%20stars&logo=github)](https://github.com/giscafer)
 
 </p>
