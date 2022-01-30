@@ -4,7 +4,8 @@
 
 <p>
 
-[![](https://img.shields.io/badge/博客-giscafer.com-1e80ff?logo=)](http://giscafer.com)
+[![](https://img.shields.io/badge/个人主页-giscafer.com-1e80ff?logo=)](http://giscafer.com)
+[![](https://img.shields.io/badge/博客-Blog-1e80ff?logo=)](https://github.com/giscafer/blog/issues)
 [![Zhihu](https://img.shields.io/badge/知乎-giscafer-1e80ff?logo=zhihu)](https://www.zhihu.com/people/giscafer)
 [![Github Stars](https://img.shields.io/github/stars/giscafer?color=faf408&label=github%20stars&logo=github)](https://github.com/giscafer)
 
