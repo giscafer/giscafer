@@ -1,4 +1,7 @@
 {
+  "aboutme": {
+    "aboutme_desc": "自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n"
+  },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
     "hidden": false
@@ -11,6 +14,15 @@
     "zhihu": "https://www.zhihu.com/people/giscafer",
     "workExpYear": "8"
   },
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
   "educationList": [
     {
       "edu_time": ["2010.09.01", "2014.06.30"],
@@ -20,37 +32,31 @@
     }
   ],
   "awardList": [
-    {
-      "award_info": "英语 CET4",
-      "award_time": "2011"
-    },
-    {
-      "award_info": "产品技术部 关键贡献奖",
-      "award_time": "2017.09"
-    },
-    {
-      "award_info": "优秀经理、优秀导师",
-      "award_time": "2018.10"
-    }
+    { "award_info": "英语 CET4", "award_time": "2011" },
+    { "award_info": "产品技术部 关键贡献奖", "award_time": "2017.09" },
+    { "award_info": "优秀经理、优秀导师", "award_time": "2018.10" }
   ],
   "workExpList": [
     {
       "company_name": "树根互联股份有限公司",
       "department_name": "树根根联",
       "work_time": ["2020.11", null],
-      "work_desc": "1. 前端架构师，负责前端团队技术解决方案和常规管理工作\r\n2. 参与项目开发，含App、Web 等"
+      "work_desc": "1. 前端架构师，负责大前端团队的前端基础架构和建设、项目技术解决方案、管理工作等；\n2. 参与项目开发，含App、Web 等\n3.前端基建工作成果有：规范流程建设、脚手架命令、物料管理平台、代码生成codegen工具 等。\n5. 技术栈：Vue2.x（转型为React）、 TypeScript、React、React Native、Next.js、Node.js等",
+      "dataIndex": 0
     },
     {
       "company_name": "广州中康资讯股份有限公司",
       "department_name": "TSC",
       "work_time": ["2020.05", "2020.11"],
-      "work_desc": "1. 负责中台项目开发，参与创新药项目需求开发；\r\n2. 负责前端规范技术栈统一和推行，协助前端人员研发提效，逐步建立体系相关工作"
+      "work_desc": "1. 负责中台项目开发，参与创新药项目需求开发；\n2. 负责前端规范技术栈统一和推行，协助前端人员研发提效，以及技术分享、公司级组件库搭建等逐步建立前端体系化的相关工作。\n5. 技术栈：Vue2.x、React\n\n",
+      "dataIndex": 1
     },
     {
       "company_name": "广州一智通供应链管理有限公司",
       "department_name": "技术中心",
       "work_time": ["2017.03", "2020.03"],
-      "work_desc": "1. 担任大前端开发经理，管理约11人的开发团队（含 App 2~3人）\r\n2. 规范制度确定（开发、流程、工程、前后端协作、代码版本规范等），并与后端开发经理以及CTO共同推动部门的开发流程规范；担任内训师，组织技术分享，带动团队学习和分享氛围；人才梯队培养，招聘工程师\n3. 负责和参与过家装通APP、方米立家具电商小程序、SCM等"
+      "work_desc": "1. 担任大前端开发经理，管理约12人的开发团队（含 App 2~3人）\n2. 流程规范制度制定，与后端开发经理以及CTO共同推动部门的开发流程规范；担任内训师，组织技术布道分享，带动团队学习和分享氛围；人才梯队培养，招聘工程师。\n3. 负责和参与过家装通APP、方米立家具电商小程序、SCM等\n4. 前端组件库建设&提效工具研发：https://github.com/giscafer/ngx-form-builder\n5. 技术栈：Angular6、 TypeScript、Ionic3、React Native",
+      "dataIndex": 2
     },
     {
       "company_name": "北京创世漫道科技有限公司",
@@ -62,7 +68,8 @@
       "company_name": "北京地林伟业科技股份有限公司",
       "department_name": "",
       "work_time": ["2014.08", "2016.05"],
-      "work_desc": "前端开发。使用 Angular.js1.x、Java，开发智慧城市、数据大屏等 WebGIS 系统"
+      "work_desc": "前端开发。使用 Angular.js1.x、Java，开发智慧城市、数据大屏等 WebGIS 系统开发",
+      "dataIndex": 4
     }
   ],
   "skillList": [
@@ -110,8 +117,27 @@
       "project_content": "1. 家装通APP重构开发负责人； 2. PDA架构负责人； 3. 各系统前端开发交付保质保效"
     }
   ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉Ionic、React Native开发，具备全栈开发能力"
-  }
+  "workList": [
+    {
+      "work_name": "rh.js",
+      "work_desc": "前端脚手架工具、组件库",
+      "visit_link": "https://github.com/RootLinkFE/rh.js"
+    },
+    {
+      "work_name": "RootHub",
+      "work_desc": "前端物料资产统一管理平台",
+      "visit_link": "https://github.com/RootLinkFE/roothub"
+    },
+    {
+      "work_name": "RootHub VSCode 插件",
+      "work_desc": "",
+      "visit_link": "https://github.com/RootLinkFE/vscode-roothub"
+    },
+    {
+      "work_name": "react-native-template",
+      "work_desc": "开箱即用的 React Native 工程脚手架",
+      "visit_link": "https://github.com/RootLinkFE/react-native-template"
+    }
+  ],
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
