@@ -1,6 +1,6 @@
 {
   "aboutme": {
-    "aboutme_desc": "自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n"
+    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
@@ -138,6 +138,11 @@
       "work_name": "RootHub VSCode 插件",
       "work_desc": "",
       "visit_link": "https://github.com/RootLinkFE/vscode-roothub"
+    },
+    {
+      "work_name": "CodeGen",
+      "work_desc": "可视化Swagger API 文档TypeScript代码生成",
+      "visit_link": "http://codegen.leekhub.com/"
     },
     {
       "work_name": "react-native-template",
