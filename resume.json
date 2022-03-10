@@ -1,6 +1,6 @@
 {
   "aboutme": {
-    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n"
+    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
@@ -9,7 +9,7 @@
   "profile": {
     "name": "劳厚宾（giscafer）",
     "email": "giscafer@outlook.com",
-    "mobile": "",
+    "mobile": "135********",
     "github": "https://github.com/gisafer",
     "workExpYear": "8"
   },
@@ -148,6 +148,16 @@
       "work_name": "react-native-template",
       "work_desc": "开箱即用的 React Native 工程脚手架",
       "visit_link": "https://github.com/RootLinkFE/react-native-template"
+    },
+    {
+      "work_name": "ngx-form-builder",
+      "work_desc": "基于Angular8 的 jsonschema 表单生成器",
+      "visit_link": "https://github.com/giscafer/ngx-form-builder"
+    },
+    {
+      "work_name": "Ledge",
+      "work_desc": "DevOps、研发效能知识和工具平台（开源项目开发成员）",
+      "visit_link": "https://devops.phodal.com/"
     }
   ],
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
