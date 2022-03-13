@@ -1,6 +1,6 @@
 {
   "aboutme": {
-    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等"
+    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等\n "
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
@@ -73,23 +73,23 @@
   ],
   "skillList": [
     {
-      "skill_name": "TypeScript / JavaScript",
+      "skill_name": "JavaScript / TypeScript",
       "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
       "skill_level": 90
     },
     {
-      "skill_name": "React / Vue.js / 前端工程化",
+      "skill_name": "React / Vue2.x / Angular6",
       "skill_desc": "大型前端项目经验以及组件库开发经验",
       "skill_level": 85
     },
     {
-      "skill_name": "Angular2+ / Ionic",
-      "skill_desc": "3年开发使用经验",
+      "skill_name": "Ionic / React Native / Node.js",
+      "skill_desc": "企业项目开发使用经验",
       "skill_level": 85
     },
     {
       "skill_name": "WebGIS、地图开发",
-      "skill_desc": "大学专业，2年相关方向开发经验",
+      "skill_desc": "大学专业，熟悉地图Web开发",
       "skill_level": 80
     }
   ],
@@ -99,7 +99,7 @@
       "project_role": "前端架构师",
       "project_time": "2021.07 - 2022.03",
       "project_desc": "新C平台是三一重工数字化转型互联网平台，该平台内含十多个子应用，ESMP是协议建模和设备管理平台组合成，是SCP2.0、STP、J1939等物联协议标准，元数据定义和管理，以支撑工业设备数据上云通信。",
-      "project_content": "1. 应用前端负责人，负责前端架构设计和组件开发 2. 设计Rh.js、CodeGen代码生成等工具设计和主导开发和推进项目使用提效  3. 参与数字模型、DBC编辑器等模块开发"
+      "project_content": "1. 应用前端负责人，负责前端架构设计和组件开发 2. 设计Rh.js、CodeGen代码生成等工具设计、开发和推进项目使用达成研发提效  3. 参与数字模型、DBC编辑器等模块开发"
     },
     {
       "project_name": "根云教育",
