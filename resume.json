@@ -40,7 +40,7 @@
       "company_name": "树根互联股份有限公司",
       "department_name": "树根根联",
       "work_time": ["2020.11", null],
-      "work_desc": "1. 前端架构师，负责某BU大前端团队的前端基础架构和建设、项目技术解决方案、管理工作等；\n2. 参与项目开发，含App、Web 等\n3.前端基建工作成果有：规范流程建设、脚手架命令、物料管理平台、代码生成codegen工具 等。\n4. 技术栈：Vue2.x（转为React）、 React、React Native、TypeScript、Next.js、Node.js等",
+      "work_desc": "1. 前端架构师，负责某BU大前端团队的前端基础架构和建设、项目技术解决方案、管理工作等；\n2. 参与项目开发，含App、Web 等\n3.前端基建工作成果有：规范流程建设、脚手架命令、物料管理平台、代码生成codegen工具 等，对前端研发能效提升有质变效果。\n4. 技术栈：Vue2.x（转为React）、 React、React Native、TypeScript、Next.js、Node.js等",
       "dataIndex": 0
     },
     {
@@ -54,7 +54,7 @@
       "company_name": "广州一智通供应链管理有限公司",
       "department_name": "",
       "work_time": ["2017.03", "2020.03"],
-      "work_desc": "1. 担任大前端开发经理，管理约12人的开发团队（含 App 2~3人）\n2. 流程规范制度制定，与后端开发经理以及CTO共同推动部门的开发流程规范；担任内训师，组织技术布道分享，带动团队学习和分享氛围；人才梯队培养，招聘工程师。\n3. 负责和参与过家装通APP、方米立家具电商小程序、SCM等\n4. 前端组件库建设&提效工具研发：https://github.com/giscafer/ngx-form-builder\n5. 技术栈：Angular6、 TypeScript、Ionic3、React Native",
+      "work_desc": "1. 担任大前端开发经理，管理约12人的开发团队（含 App 2~3人）\n2. 流程规范制度制定，与后端开发经理以及CTO共同推动部门的开发流程规范；担任内训师，组织技术布道分享，带动团队学习和分享氛围；团队组建，人才梯队培养。\n3. 负责和参与过家装通APP、方米立家具电商小程序、SCM等\n4. 前端组件库建设&提效工具研发：https://github.com/giscafer/ngx-form-builder\n5. 技术栈：Angular6、 TypeScript、Ionic3、React Native",
       "dataIndex": 2
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "skill_name": "Ionic / React Native / Node.js",
-      "skill_desc": "企业项目开发使用经验",
+      "skill_desc": "多个企业项目开发使用经验",
       "skill_level": 85
     },
     {
