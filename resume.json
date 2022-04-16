@@ -11,7 +11,9 @@
     "email": "giscafer@outlook.com",
     "mobile": "135********",
     "github": "https://github.com/gisafer",
-    "workExpYear": "8"
+    "workExpYear": "8",
+    "workPlace": "广州",
+    "positionTitle": "前端TL/前端架构师"
   },
   "titleNameMap": {
     "educationList": "教育背景",
@@ -113,7 +115,7 @@
       "project_role": "开发负责人",
       "project_time": "2021.04 - 2021.07",
       "project_desc": "广东省应急指挥系统住建安全专题，主要协助应急厅对广东省住房的安全统筹与发展，对工程器械工作、住房工地数据统计和分析，以及对气象数据观测应急指挥等。",
-      "project_content": "大屏可视化系统开发，GIS + MIS 结合三屏联动；跨团队协作、沟通"
+      "project_content": "1. 大屏可视化系统开发，GIS + MIS 结合三屏联动；跨团队协作、沟通；"
     },
     {
       "project_name": "物流供应链",
@@ -124,6 +126,11 @@
     }
   ],
   "workList": [
+    {
+      "work_name": "blog",
+      "work_desc": "Next.js + Issues 博客解决方案",
+      "visit_link": "https://github.com/giscafer/blog"
+    },
     {
       "work_name": "rh.js",
       "work_desc": "前端脚手架工具、组件库",
@@ -156,7 +163,7 @@
     },
     {
       "work_name": "Ledge",
-      "work_desc": "DevOps、研发效能知识和工具平台（开源项目开发成员）",
+      "work_desc": "DevOps、研发效能知识和工具平台（开发成员）",
       "visit_link": "https://devops.phodal.com/"
     }
   ],
