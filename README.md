@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/博客-Blog-1e80ff?logo=)](https://giscafer.com/blog)
 [![Zhihu](https://img.shields.io/badge/知乎-giscafer-1e80ff?logo=zhihu)](https://www.zhihu.com/people/giscafer)
 [![Github Stars](https://img.shields.io/github/stars/giscafer?color=faf408&label=github%20stars&logo=github)](https://github.com/giscafer)
+![PV](https://visitor-badge.glitch.me/badge?page_id=giscafer)
 
 </p>
 
@@ -36,21 +37,6 @@
 <p>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-%232C3A42?style=flat-square&logo=mysql&logoColor=%23ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%232C3A42?style=flat-square&logo=MongoDB&logoColor=green)
-
-</p>
-
-<p>
-
-![Gitlab CI](https://img.shields.io/badge/-DevOps-%231a202c?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-%231a202c?style=flat-square&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-%231a202c?style=flat-square&logo=Linux)
-
-</p>
-
-</p>
-
 ![WebGIS](https://img.shields.io/badge/-GIS/WebGIS-%231a202c?style=flat-square&logo=leaflet)
 
 <p>
