@@ -7,8 +7,9 @@
 [![](https://img.shields.io/badge/个人网站-giscafer.com-1e80ff?logo=)](http://giscafer.com)
 [![](https://img.shields.io/badge/博客-Blog-1e80ff?logo=)](https://giscafer.com/blog)
 [![Zhihu](https://img.shields.io/badge/知乎-giscafer-1e80ff?logo=zhihu)](https://www.zhihu.com/people/giscafer)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Nicky-1e80ff?logo=stackoverflow)](https://stackoverflow.com/users/7553216/nicky)
 [![Github Stars](https://img.shields.io/github/stars/giscafer?color=faf408&label=github%20stars&logo=github)](https://github.com/giscafer)
-![PV](https://visitor-badge.glitch.me/badge?page_id=giscafer)
+
 
 </p>
 
