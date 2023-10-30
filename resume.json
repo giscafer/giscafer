@@ -10,7 +10,7 @@
     "name": "劳厚宾（giscafer）",
     "email": "giscafer@outlook.com",
     "mobile": "135********",
-    "github": "https://github.com/gisafer",
+    "github": "https://github.com/giscafer",
     "workExpYear": "8",
     "workPlace": "广州",
     "positionTitle": "前端TL/前端架构师"
@@ -96,6 +96,13 @@
     }
   ],
   "projectList": [
+    {
+      "project_name": "边缘管理平台",
+      "project_role": "前端架构师",
+      "project_time": "2022.06 - 至今",
+      "project_desc": "边缘计算（RootEdge）是将部分数据分析和计算下沉到接近数据产生和数据消费的源头的一套技术和方案，是云计算的一个有效的补充。",
+      "project_content": "1. 边缘管理和边缘节点项目前端开发负责人，负责前端架构设计和组件开发、核心功能开发等"
+    },
     {
       "project_name": "三一新C平台-ESMP应用",
       "project_role": "前端架构师",
