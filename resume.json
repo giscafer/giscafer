@@ -1,6 +1,6 @@
 {
   "aboutme": {
-    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等\n "
+    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps、Docker 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等\n "
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
@@ -101,7 +101,7 @@
       "project_role": "前端架构师",
       "project_time": "2022.06 - 至今",
       "project_desc": "边缘计算（RootEdge）是将部分数据分析和计算下沉到接近数据产生和数据消费的源头的一套技术和方案，是云计算的一个有效的补充。",
-      "project_content": "1. 边缘管理和边缘节点项目前端开发负责人，负责前端架构设计和组件开发、核心功能开发等"
+      "project_content": "1. 边缘管理和边缘节点项目前端开发负责人，负责前端架构设计和组件开发、核心功能开发等；2. 基于Node-RED开发流计算编排处理流计算；3.基于BPMN开发工艺流程引擎；"
     },
     {
       "project_name": "三一新C平台-ESMP应用",
