@@ -1,6 +1,6 @@
 {
   "aboutme": {
-    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，8年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps、Docker 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等\n "
+    "aboutme_desc": "🌱能力项：协调力、执行力、大前端\n自驱型前端工程师，9年多大型复杂产品开发经验，4年前端团队管理经验，熟悉跨端APP 如 Ionic、React Native开发，熟悉 微前端、DevOps、Docker 等，具备全栈开发能力。\n 参与过开源项目 ledge、ng-zorro-antd 等\n "
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/8676711?v=4",
@@ -11,7 +11,7 @@
     "email": "giscafer@outlook.com",
     "mobile": "135********",
     "github": "https://github.com/giscafer",
-    "workExpYear": "8",
+    "workExpYear": "9",
     "workPlace": "广州",
     "positionTitle": "前端TL/前端架构师"
   },
@@ -91,7 +91,7 @@
     },
     {
       "skill_name": "WebGIS、地图开发",
-      "skill_desc": "大学专业，熟悉地图Web开发",
+      "skill_desc": "GIS专业，熟悉地图Web开发",
       "skill_level": 80
     }
   ],
